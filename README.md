@@ -1,1 +1,1 @@
-A pipeline for Toolbox to Latex synchronization of linguistic exmaples.
+A pipeline for Toolbox-to-Latex synchronization of linguistic exmaples.
