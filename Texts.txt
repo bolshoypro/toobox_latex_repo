@@ -1,0 +1,31 @@
+\_sh v3.0  621  Text
+
+\id inchoative_transitive
+\ref inchoative_transitive.002
+\tx m̀bíyé
+\mb m̀-     bí     -yé
+\ge 1SG-     lie.down -INCH.PFV
+\ps vprefix- v        -vsuffix
+
+\ft I lied down.
+
+\ref inchoative_transitive.005
+\tx m̀bídé
+\mb m̀-     bí     -dé
+\ge 1SG-     lie.down -CAUS.PFV
+\ps vprefix- v        -vsuffix
+
+\ft I have (sb) lie down.
+\ref inchoative_transitive.029
+\tx Hárúnà dìyɛ́
+\mb Hárúnà dì -yɛ́
+\ge Harouna      wash -INCH.PFV
+\ps n            v    -vsuffix
+\ft Harouna washed himself.
+
+\ref inchoative_transitive.030
+\tx Hárúnà dìdɛ́
+\mb Hárúnà dì -dɛ́
+\ge Harouna      wash -CAUS.PFV
+\ps n            v    -vsuffix
+\ft Harouna washed sb.

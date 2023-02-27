@@ -1,0 +1,42 @@
+\documentclass[12pt, openany]{scrbook}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{expex}
+\usepackage[margin=2.44cm]{geometry}
+\usepackage{fontspec}
+\usepackage{authblk}
+\setmainfont{Charis SIL}
+\usepackage{titlesec}
+\titleformat{\chapter}%[display]
+	{\normalfont\sffamily\huge\bfseries}
+	{\thechapter}{1em}{}
+\titleformat{\section}
+	{\normalfont\sffamily\Large\bfseries}
+	{\thesection}{1em}{}
+\titleformat{\subsection}
+	{\normalfont\sffamily\Large\bfseries}
+	{\thesection}{1em}{}
+\usepackage{graphicx}
+
+\title {A Grammar of Language}
+\subtitle{ No subtitle}
+\author {Author zhot}
+\affil {Affiliation \\ Affiliation  Academy of Sciences}
+\date {\today}
+
+
+\begin{document}
+\maketitle
+
+
+
+\newpage
+
+
+\input{sections/causatives.tex}
+\input{sections/focus.tex}
+\input{sections/topic.tex}
+\input{sections/relatives.tex}
+
+\end{document}
